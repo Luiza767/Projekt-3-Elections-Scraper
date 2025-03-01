@@ -1,3 +1,9 @@
+"""
+projekt_3.py: třetí projekt do Engeto Online Python Akademie
+
+author: Gordiyenko Svitlana
+email: parostok.root@seznam.cz
+"""
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd

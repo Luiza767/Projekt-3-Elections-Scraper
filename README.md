@@ -21,7 +21,7 @@ python main.py <URL> <výstupní_soubor>
 ### Příklad:
 
 ```sh
-python main.py "https://www.volby.cz/pls/ps2017nss/ps3?xjazyk=CZ&xkraj=2&xobec=100" vysledky.csv
+python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=2&xnumnuts=2104" vysledky.csv
 ```
 
 ## Soubory
